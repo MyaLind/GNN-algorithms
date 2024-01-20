@@ -1,5 +1,5 @@
 '''
-	Given a binary tree, return the postorder traversal of its nodes' values.
+	Given#a binary tree, return the postorder traversal of its nodes' values.
 
 	Example:
 
@@ -79,4 +79,4 @@ class Solution(object):
         	if  len(stack)<=0:
         		break
 
-        return result
+        return result 
